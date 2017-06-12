@@ -1,2 +1,3 @@
 # hello-world
-Test Repository
+
+Testing repository - familiarizing with the GitHub interface.
